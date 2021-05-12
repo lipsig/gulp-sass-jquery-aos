@@ -19,6 +19,6 @@
     "gulp-concat": "^2.6.1",
     "gulp-uglify": "^3.0.2",
     "jquery": "^1.9.1",
-    "swiper": "^5.3.0"
+    "swiper": "^6.5.1"
   }
 }
